@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/kaleessiva/leetcode/tree/master/0371-sum-of-two-integers) |
+## String
+|  |
+| ------- |
+| [1797-goal-parser-interpretation](https://github.com/kaleessiva/leetcode/tree/master/1797-goal-parser-interpretation) |
 <!---LeetCode Topics End-->
