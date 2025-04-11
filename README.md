@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/kaleessiva/leetcode/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/kaleessiva/leetcode/tree/master/0371-sum-of-two-integers) |
 ## String
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/kaleessiva/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kaleessiva/leetcode/tree/master/0344-reverse-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/kaleessiva/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
