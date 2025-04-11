@@ -31,5 +31,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/kaleessiva/leetcode/tree/master/0344-reverse-string) |
 | [1797-goal-parser-interpretation](https://github.com/kaleessiva/leetcode/tree/master/1797-goal-parser-interpretation) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/kaleessiva/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
