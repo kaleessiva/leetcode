@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kaleessiva/leetcode/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaleessiva/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0909-stone-game](https://github.com/kaleessiva/leetcode/tree/master/0909-stone-game) |
 ## Dynamic Programming
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/kaleessiva/leetcode/tree/master/0191-number-of-1-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kaleessiva/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
