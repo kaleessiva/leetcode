@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/kaleessiva/leetcode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/kaleessiva/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0909-stone-game](https://github.com/kaleessiva/leetcode/tree/master/0909-stone-game) |
+| [1448-maximum-69-number](https://github.com/kaleessiva/leetcode/tree/master/1448-maximum-69-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kaleessiva/leetcode/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/kaleessiva/leetcode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
