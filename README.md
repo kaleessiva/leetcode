@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/kaleessiva/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0909-stone-game](https://github.com/kaleessiva/leetcode/tree/master/0909-stone-game) |
 | [1448-maximum-69-number](https://github.com/kaleessiva/leetcode/tree/master/1448-maximum-69-number) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/kaleessiva/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kaleessiva/leetcode/tree/master/0414-third-maximum-number) |
 | [0909-stone-game](https://github.com/kaleessiva/leetcode/tree/master/0909-stone-game) |
 | [2262-solving-questions-with-brainpower](https://github.com/kaleessiva/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/kaleessiva/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
