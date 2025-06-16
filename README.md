@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kaleessiva/leetcode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaleessiva/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0414-third-maximum-number](https://github.com/kaleessiva/leetcode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kaleessiva/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0909-stone-game](https://github.com/kaleessiva/leetcode/tree/master/0909-stone-game) |
 | [2262-solving-questions-with-brainpower](https://github.com/kaleessiva/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/kaleessiva/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaleessiva/leetcode/tree/master/0001-two-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kaleessiva/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
