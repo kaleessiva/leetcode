@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/kaleessiva/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/kaleessiva/leetcode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/kaleessiva/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/kaleessiva/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kaleessiva/leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/kaleessiva/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/kaleessiva/leetcode/tree/master/0344-reverse-string) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kaleessiva/leetcode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kaleessiva/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
