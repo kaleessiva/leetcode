@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kaleessiva/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kaleessiva/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0909-stone-game](https://github.com/kaleessiva/leetcode/tree/master/0909-stone-game) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/kaleessiva/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/kaleessiva/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/kaleessiva/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Dynamic Programming
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaleessiva/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/kaleessiva/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kaleessiva/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/kaleessiva/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/kaleessiva/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/kaleessiva/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
