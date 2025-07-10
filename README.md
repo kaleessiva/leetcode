@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/kaleessiva/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/kaleessiva/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kaleessiva/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/kaleessiva/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/kaleessiva/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0909-stone-game](https://github.com/kaleessiva/leetcode/tree/master/0909-stone-game) |
 | [1448-maximum-69-number](https://github.com/kaleessiva/leetcode/tree/master/1448-maximum-69-number) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/kaleessiva/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaleessiva/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/kaleessiva/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kaleessiva/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/kaleessiva/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Array
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kaleessiva/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/kaleessiva/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaleessiva/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/kaleessiva/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kaleessiva/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kaleessiva/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kaleessiva/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kaleessiva/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kaleessiva/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kaleessiva/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kaleessiva/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/kaleessiva/leetcode/tree/master/0371-sum-of-two-integers) |
 ## String
 |  |
@@ -95,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kaleessiva/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaleessiva/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/kaleessiva/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kaleessiva/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kaleessiva/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kaleessiva/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kaleessiva/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kaleessiva/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kaleessiva/leetcode/tree/master/0414-third-maximum-number) |
 ## Simulation
