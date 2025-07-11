@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kaleessiva/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kaleessiva/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kaleessiva/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kaleessiva/leetcode/tree/master/0066-plus-one) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kaleessiva/leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/kaleessiva/leetcode/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/kaleessiva/leetcode/tree/master/0231-power-of-two) |
 ## Sliding Window
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kaleessiva/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kaleessiva/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
